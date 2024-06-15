@@ -1,0 +1,14 @@
+.message {
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+.gpt-message {
+    background-color: darkslategray;
+    color: white;
+}
+
+.user-message {
+    background-color: lightblue;
+    color: black;
+}

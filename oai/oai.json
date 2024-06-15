@@ -1,0 +1,15 @@
+{
+  "model": "gpt-3.5-turbo-1106",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Explain like i am 10 years old."
+    },
+    {
+      "role": "user",
+      "content": "Which framework is the most popular for Web UI in Javascript ?"
+    }
+  ],
+  "max_tokens": 1000,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXNjcmlwdGlvbiI6IlRpbWUgbGltaXRlZCB0b2tlbiBmb3IgT3BlbkFJIEFQSSBwcm94eS4iLCJpYXQiOjE3MTE2MjM2MDAsIm5iZiI6MTcxMTYyMzYwMCwiZXhwIjoxNzExODMyMzk5fQ.G6sZ60jG8Xd5Amo94lj12z9rE1b-VdgP5eXDTFlsaiQ"
+}
